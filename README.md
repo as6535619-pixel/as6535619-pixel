@@ -6,5 +6,5 @@
 -💬 Asked me about python java 
 -⚡ fun fact: I turn cofee into code 
 
-### techstackp
+### 🛠 tech stack
 Python | TypeScript | React | node. | cloud
