@@ -1,4 +1,4 @@
-#  Hi  there, I 'm Abhijeet singh👏
+#  Hi  there, I'm Abhijeet Singh👏
 ### full stack developer | python | mern | cloud
 -🔭 Working on Web Apps
 -🌱 Learning cloud and 
