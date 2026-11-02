@@ -3,8 +3,7 @@
 -🔭 Working on Web Apps
 -🌱 Learning cloud and 
 -👯‍♂️ Looking to collaborate on open source
--💬 Asked me about python java script
--📫 Reach me: Abhijeet@email.com
+-💬 Asked me about python java 
 -⚡ fun fact: I turn cofee into code 
 
 ### techstackp
