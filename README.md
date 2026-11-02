@@ -4,7 +4,7 @@
 -🌱 Learning cloud and 
 -👯‍♂️ Looking to collaborate on open source
 -💬 Asked me about python java 
--⚡ fun fact: I turn cofee into code 
+-⚡ fun fact: I turn coffee into code 
 
 ### 🛠 tech stack
-Python | TypeScript | React | node. | cloud
+Python | TypeScript | React | node.js | cloud
